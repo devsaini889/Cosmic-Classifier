@@ -153,4 +153,9 @@ pip install -r requirements.txt
 🚀 Run the App
 ```streamlit run app.py```
 
+⚖️ License
 
+Licensed under the MIT License.
+Free for educational and research use.
+
+⭐ If you found this project interesting, don’t forget to star it on GitHub!
